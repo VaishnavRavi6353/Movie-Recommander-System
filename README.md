@@ -6,4 +6,4 @@ First install below packges on your system:
       3. nltk
       4. ast
       5. streamlit
-First run the Movie Recommender file then start app
+First run the Recommender system file then start app
